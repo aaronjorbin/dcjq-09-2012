@@ -1,8 +1,8 @@
-*	# Automatting your front end workflow
+*	# Tools for Automatting your front end workflow
 
 *	# [Aaron Jorbin](http://aaron.jorb.in)
 
-*   # Don't take Notes, go to <a href='http://jorb.in/wcbos2012'>jorb.in/wcbos2012</a>
+*   # Don't take Notes, go to <a href='http://jorb.in/dcjq-09-20122'>jorb.in/dcjq-09-2012</a>
 
 *	# We All have Workflows  
 
@@ -17,6 +17,8 @@
     <img src='img/historychart.png'>
 
     <em>Stolen from Sys Admins</em>
+
+*   # [You Probobly Type Too Much](http://paulmckellar.com/huffshell/)
     
 *   # Record your screen
     
